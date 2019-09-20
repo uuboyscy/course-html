@@ -1,0 +1,20 @@
+.navbar-default{
+  background-color: #2F4F4F
+}
+
+li.active{
+  background-color: #0e3964
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr.success{
+  background-color: red;
+}
+
+div{
+  color:blue
+}
