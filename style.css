@@ -1,3 +1,11 @@
+div.test1{
+  background-color: green;
+}
+
+div.test2{
+  font-size: 32pt;
+}
+
 .navbar-default{
   background-color: #2F4F4F
 }
